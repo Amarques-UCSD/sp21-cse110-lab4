@@ -42,3 +42,5 @@
 15. *==* can translate different types and then compare then with the possibility of being true, while *===* will not, and so return false immedeately if the types are different.
 
 17. [2,4,6] ; A new array will be created, then each value of *array* will be inputed into *doSomething*, which returns double. This value is immedeately stored in the new array.  
+
+19. 1, 4, 3, 2 in different lines.
